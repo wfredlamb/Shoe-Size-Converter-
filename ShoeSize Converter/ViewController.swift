@@ -42,7 +42,7 @@ class ViewController: UIViewController {
         
         mensConvertedLabel.hidden = false
         
-        mensShoeSizeTextField.text = " "
+        mensShoeSizeTextField.text = ""
         
         mensShoeSizeTextField.resignFirstResponder()
     }
@@ -57,7 +57,7 @@ class ViewController: UIViewController {
         
         womensConvertedLabel.hidden = false
         
-        womensShoeSizeTextField.text = " "
+        womensShoeSizeTextField.text = ""
         
         womensShoeSizeTextField.resignFirstResponder()
     }
